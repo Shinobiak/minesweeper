@@ -1,6 +1,5 @@
 // Ayush Kamath
-// CLA 18
-// Making CLA16 as a basic and playable version of Minesweeper
+// basic and playable version of Minesweeper
 
 #include <cstdlib>
 #include <ctime>
